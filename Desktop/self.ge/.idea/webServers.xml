@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="03df9016-e82c-414a-80ca-4694643c9159" name="test" url="http://self.ge">
+        <fileTransfer rootFolder="/var/www/ge.self.dev/templates" accessType="SFTP" host="self.ge" port="22" sshConfigId="be63f7a6-7208-4355-95b4-ad753f2785af" sshConfig="dev@self.ge:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
