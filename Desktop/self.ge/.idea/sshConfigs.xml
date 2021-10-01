@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="SshConfigs">
-    <configs>
-      <sshConfig authType="PASSWORD" host="self.ge" id="be63f7a6-7208-4355-95b4-ad753f2785af" port="22" nameFormat="DESCRIPTIVE" username="dev" />
-    </configs>
-  </component>
-</project>
